@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,7 +48,7 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
+    <h1>Stephen Gantt</h1>
     <nav>
         <a href="#about">About</a>
         <a href="#projects">Projects</a>
@@ -58,26 +57,34 @@
 </header>
 
 <section class="hero">
-    <h2>Welcome to My Digital Domain</h2>
-    <p>Game designer, developer, dreamer of epic possibilities.</p>
+    <h2>Welcome to My Website</h2>
+    <p>Game designer, software developer, artist.</p>
     <!-- Optional profile pic -->
-    <!-- <img src="your-photo.jpg" alt="Your photo" class="profile"> -->
+    <img src="headshot.jpg" alt="my_photo" class="profile">
 </section>
 
 <section id="about" class="section">
     <h2>About Me</h2>
     <p>
-        Hello. I build worlds. I write code that makes players smile, yell,
-        and occasionally question reality. I love tactical RPGs, procedural
-        generation, and bringing interactive stories to life.
+        Stephen Gantt is an aspiring game designer with several years of programming 
+experience under his belt as well as plenty of game design experience in the form of 
+personal projects and game jam participation, being the primary developer of 
+Unclaimed Quest for the 2025 Inbound Shovel game jam. In addition to his 
+experience with programming and game engines, Stephen has worked with 3D 
+modeling and texturing software, as well as having worked with soundtrack 
+composers and foley artists, giving him a deeper understanding and appreciation of 
+the entire game design process. 
+    When not working on the software side of things Stephen enjoys running 
+sessions of D&D for his friends and family, exploring narratives through game 
+mechanics and tweaking those mechanics where necessary. 
     </p>
 </section>
 
 <section id="projects" class="section">
     <h2>Projects</h2>
     <ul>
-        <li><strong>Project Name</strong> A cool description goes here.</li>
-        <li><strong>Another Project</strong> Bring your coolest idea to light.</li>
+        <li><strong>Unclaimed Quest</strong> Go on a quest to find a quest! A turn based tactical rpg made in a week for the 2025 Inbound Shovel GameJam!</li>
+        <li><strong>TBA Samurai Game</strong> A hack and slash game playable only using the mouse!</li>
     </ul>
 </section>
 
@@ -91,7 +98,7 @@
 </section>
 
 <footer class="footer">
-    <p>© Your Name 2025</p>
+    <p>Stephen Gantt 2025</p>
 </footer>
 
 </body>
